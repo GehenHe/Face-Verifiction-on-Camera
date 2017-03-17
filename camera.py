@@ -20,7 +20,7 @@ id_img = cv2.imread('./data/Amanda_Bynes/Amanda_Bynes_0001.jpg')
 aligner = NaiveDlib(aligne_model)
 extractor = Wrapper(caffe_proto, caffe_model, mean_file)
 eva = evaluator('cos','accuracy')
-thresh = 0.7
+thresh = 0.7                          # thresh is defined here
 
 cap = cv2.VideoCapture(-1)
 bb = aligner.getLargestFaceBoundingBox(id_img)

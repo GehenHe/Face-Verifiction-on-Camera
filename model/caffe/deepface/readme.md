@@ -1,0 +1,1 @@
+caffe model is placed here,include "caffe.model","mean.npy" and "val.prototxt"

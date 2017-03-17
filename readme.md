@@ -11,4 +11,4 @@ This folder include a simple demo for face verifition on live camera
 
 
 ## Requirement 
-  In this project , [Dlib](http://dlib.net/python/index.html) and [caffe](http://caffe.berkeleyvision.org/) are needed .
+  In this project , [Dlib](http://dlib.net/python/index.html) and [caffe](http://caffe.berkeleyvision.org/) are required .

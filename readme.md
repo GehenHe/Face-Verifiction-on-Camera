@@ -7,8 +7,8 @@ This folder include a simple demo for face verifition on live camera
   The ID pictures is saved in ./data folder.
   And in ./model folder , you should put your pretrain model in ./model/caffe , the pretrained model is not aviliable yet.
 
-  Once the demo is running , use key 'v' for 'Verifition' , key 'q' for 'quit' , and then it will show whether the face in camera share the same ID in gallary.
+  Once the demo is running , press 'v' for 'Verifition' , press 'q' for 'quit' , and then it will show whether the face in camera share the same ID in gallary.
 
 
 ## Requirement 
-  In this project , [Dlib](http://dlib.net/python/index.html) and [caffe](http://caffe.berkeleyvision.org/) are required .
+  In this project , [Dlib](http://dlib.net/python/index.html) and [Caffe](http://caffe.berkeleyvision.org/) are required .
